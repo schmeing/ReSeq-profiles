@@ -1,0 +1,2 @@
+*.reseq filter=lfs diff=lfs merge=lfs -text
+*.reseq.ipf filter=lfs diff=lfs merge=lfs -text
