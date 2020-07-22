@@ -3,8 +3,8 @@ For best results it is always advised to create your own profiles from a dataset
 
 | Dataset | Year | Sequencer | Adapter | Species | Read length | Fragment length | Coverage | Profile | Ipf |
 |------------------------------------------------------------------------------------|-----------|------------|---------|-------------|-----|-----|-----|---|---|
-| SRR490124                                                                          | &le; 2013 | HiSeq 2000 | TruSeq  | *E. coli*   | 100 | 164 | 449 | | |
-| BaseSpace, HiSeq 4000: Nextera XT (B.cereus, E.coli, R.sphaeroides), Ecoli1_L001   | 2015      | HiSeq 4000 | Nextera | *E. coli*   | 151 |  -  | 508 | | |
-| BaseSpace, HiSeq 4000: Nextera XT (B.cereus, E.coli, R.sphaeroides), Bcereus1_L001 | 2015      | HiSeq 4000 | Nextera | *B. cereus* | 151 |  -  | 508 | | |
+| SRR490124                                                                          | &le; 2013 | HiSeq 2000 | TruSeq  | *E. coli*   | 100 | 164 | 449 | [X](https://github.com/schmeing/ReSeq-profiles/raw/master/profiles/Ec-Hi2000-TruSeq.reseq) | [X](https://github.com/schmeing/ReSeq-profiles/raw/master/profiles/Ec-Hi2000-TruSeq.reseq.ipf) |
+| BaseSpace, HiSeq 4000: Nextera XT (B.cereus, E.coli, R.sphaeroides), Ecoli1_L001   | 2015      | HiSeq 4000 | Nextera | *E. coli*   | 151 |  -  | 508 | [X](https://github.com/schmeing/ReSeq-profiles/raw/master/profiles/Ec-Hi4000-Nextera.reseq) | [X](https://github.com/schmeing/ReSeq-profiles/raw/master/profiles/Ec-Hi4000-Nextera.reseq.ipf) |
+| BaseSpace, HiSeq 4000: Nextera XT (B.cereus, E.coli, R.sphaeroides), Bcereus1_L001 | 2015      | HiSeq 4000 | Nextera | *B. cereus* | 151 |  -  | 508 | [X](https://github.com/schmeing/ReSeq-profiles/raw/master/profiles/Bc-Hi4000-Nextera.reseq) | [X](https://github.com/schmeing/ReSeq-profiles/raw/master/profiles/Bc-Hi4000-Nextera.reseq.ipf) |
 
 In case you created a profile that reflects a given dataset well, please contact me to share it with others.
